@@ -1,0 +1,20 @@
+Input Size      Index   Value   Comparisons
+1000              4      277     7465
+                  11     408     7465
+                  7      347     7461
+
+Input Size      Index   Value   Comparisons
+10000             2      48      67115
+                  6      57      67115
+                  4      52      67111
+
+Input Size      Index   Value   Comparisons
+20000             10     13      133586
+                  5      7       133586
+                  12     18      133586
+
+Input Size      Index   Value   Comparisons
+50000             1      1       326996
+                  3      4       326996
+                  5      7       326992
+
