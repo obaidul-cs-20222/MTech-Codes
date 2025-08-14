@@ -17,3 +17,5 @@ Input Size      Index   Value   Comparisons
 50000             8      7       335244
                   11     13      335244
                   6      6       335244
+
+

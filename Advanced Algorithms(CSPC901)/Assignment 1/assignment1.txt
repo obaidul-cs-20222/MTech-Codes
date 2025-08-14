@@ -23,13 +23,11 @@ int main()
         int *kthSmallestValues = (int *)malloc(DATA_SIZE[counter] * sizeof(int));
         long long *comparisonStats = (long long *)malloc(DATA_SIZE[counter] * sizeof(long long));
 
-        
         for (int i = 0; i < DATA_SIZE[counter]; i++)
         {
             a[i] = rand() % 100000;
         }
 
-        
         for (int i = 0; i < DATA_SIZE[counter]; i++)
         {
             int *dataCopy = (int *)malloc(DATA_SIZE[counter] * sizeof(int));
@@ -75,7 +73,7 @@ void sort(int *array, int left, int right)
     {
         int key = array[i];
         int j = i - 1;
-        while (j >= left && (++comparisonCounter && array[j] > key))
+        while (j >= left && (array[j] > key))
         {
             array[j + 1] = array[j];
             j--;
