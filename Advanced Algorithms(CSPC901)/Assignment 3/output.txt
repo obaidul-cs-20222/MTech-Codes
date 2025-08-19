@@ -1,0 +1,27 @@
+Input text: This is an Assignment for Huffman Encoding Decoding
+Character frequencies: {'T': 1, 'h': 1, 'i': 5, 's': 4, ' ': 7, 'a': 2, 'n': 7, 'A': 1, 'g': 3, 'm': 2, 'e': 2, 't': 1, 'f': 3, 'o': 3, 'r': 1, 'H': 1, 'u': 1, 'E': 1, 'c': 2, 'd': 2, 'D': 1}
+Huffman Codes:
+Character: m, Code: 0000
+Character: c, Code: 0001
+Character: i, Code: 001
+Character: f, Code: 0100
+Character: g, Code: 0101
+Character: o, Code: 0110
+Character: H, Code: 01110
+Character: a, Code: 01111
+Character: n, Code: 100
+Character:  , Code: 101
+Character: s, Code: 1100
+Character: e, Code: 11010
+Character: r, Code: 110110
+Character: t, Code: 110111
+Character: h, Code: 111000
+Character: E, Code: 111001
+Character: T, Code: 111010
+Character: D, Code: 111011
+Character: d, Code: 11110
+Character: u, Code: 111110
+Character: A, Code: 111111
+Encoded string: 1110101110000011100101001110010101111100101111111110011000010101100000011010100110111101010001101101101010111011111001000100000001111100101111001100000101101111000110001011011110111101000010110111100011000101
+Decoded string: This is an Assignment for Huffman Encoding Decoding
+Huffman Encoding Decoding Successfull
