@@ -1,0 +1,999 @@
+Sun – সূর্য
+
+Moon – চাঁদ
+
+Star – তারা
+
+Sky – আকাশ
+
+Cloud – মেঘ
+
+Rain – বৃষ্টি
+
+Wind – হাওয়া
+
+River – নদী
+
+Sea – সমুদ্র
+
+Ocean – মহাসাগর
+
+Mountain – পাহাড়
+
+Hill – টিলা
+
+Tree – গাছ
+
+Leaf – পাতা
+
+Flower – ফুল
+
+Grass – ঘাস
+
+Sand – বালি
+
+Stone – পাথর
+
+Fire – আগুন
+
+Earth – পৃথিবী
+
+Man – মানুষ / পুরুষ
+
+Woman – নারী
+
+Child – শিশু
+
+Father – বাবা
+
+Mother – মা
+
+Brother – ভাই
+
+Sister – বোন
+
+Friend – বন্ধু
+
+Teacher – শিক্ষক
+
+Student – ছাত্র
+
+Husband – স্বামী
+
+Wife – স্ত্রী
+
+Son – পুত্র
+
+Daughter – কন্যা
+
+Family – পরিবার
+
+Neighbor – প্রতিবেশী
+
+King – রাজা
+
+Queen – রানি
+
+Worker – শ্রমিক
+
+Farmer – কৃষক
+
+Love – প্রেম
+
+Hate – ঘৃণা
+
+Joy – আনন্দ
+
+Sadness – দুঃখ
+
+Anger – রাগ
+
+Fear – ভয়
+
+Hope – আশা
+
+Peace – শান্তি
+
+War – যুদ্ধ
+
+Trust – বিশ্বাস
+
+Friendship – বন্ধুত্ব
+
+Care – যত্ন
+
+Pride – গর্ব
+
+Shame – লজ্জা
+
+Courage – সাহস
+
+Patience – ধৈর্য
+
+Desire – ইচ্ছা
+
+Doubt – সন্দেহ
+
+Surprise – বিস্ময়
+
+Faith – আস্থা
+
+House – বাড়ি
+
+Room – ঘর
+
+Door – দরজা
+
+Window – জানালা
+
+Chair – চেয়ার
+
+Table – টেবিল
+
+Bed – খাট
+
+Book – বই
+
+Pen – কলম
+
+Paper – কাগজ
+
+Phone – ফোন
+
+Computer – কম্পিউটার
+
+Bag – ব্যাগ
+
+Key – চাবি
+
+Car – গাড়ি
+
+Train – ট্রেন
+
+Ship – জাহাজ
+
+Plane – বিমান
+
+Road – রাস্তা
+
+Bridge – সেতু
+
+Eat – খাওয়া
+
+Drink – পান করা
+
+Run – দৌড়ানো
+
+Walk – হাঁটা
+
+Sleep – ঘুমানো
+
+Read – পড়া
+
+Write – লেখা
+
+Speak – কথা বলা
+
+Listen – শোনা
+
+See – দেখা
+
+Think – ভাবা
+
+Work – কাজ করা
+
+Play – খেলা
+
+Study – অধ্যয়ন করা
+
+Teach – শেখানো
+
+Buy – কেনা
+
+Sell – বেচা
+
+Build – তৈরি করা
+
+Break – ভাঙা
+
+Drive – চালানো
+
+Morning – সকাল
+
+Noon – দুপুর
+
+Evening – সন্ধ্যা
+
+Night – রাত
+
+Day – দিন
+
+Week – সপ্তাহ
+
+Month – মাস
+
+Year – বছর
+
+Today – আজ
+
+Tomorrow – আগামীকাল
+
+Yesterday – গতকাল
+
+Time – সময়
+
+Hour – ঘণ্টা
+
+Minute – মিনিট
+
+Second – সেকেন্ড
+
+Clock – ঘড়ি
+
+Calendar – ক্যালেন্ডার
+
+Season – ঋতু
+
+Summer – গ্রীষ্ম
+
+Winter – শীত
+
+Spring – বসন্ত
+
+Autumn – শরৎ
+
+Cold – ঠান্ডা
+
+Hot – গরম
+
+Warm – উষ্ণ
+
+Cool – শীতল
+
+Rainy – বর্ষাকাল
+
+Storm – ঝড়
+
+Thunder – বজ্র
+
+Lightning – বিদ্যুৎ চমক
+
+Snow – তুষার
+
+Ice – বরফ
+
+Fog – কুয়াশা
+
+Dew – শিশির
+
+Flood – বন্যা
+
+Drought – খরা
+
+Earthquake – ভূমিকম্প
+
+Volcano – আগ্নেয়গিরি
+
+Island – দ্বীপ
+
+Desert – মরুভূমি
+
+Hand – হাত
+
+Leg – পা
+
+Head – মাথা
+
+Face – মুখ
+
+Eye – চোখ
+
+Ear – কান
+
+Nose – নাক
+
+Mouth – মুখ
+
+Tooth – দাঁত
+
+Tongue – জিহ্বা
+
+Hair – চুল
+
+Finger – আঙুল
+
+Foot – পদ
+
+Heart – হৃদয়
+
+Brain – মস্তিষ্ক
+
+Blood – রক্ত
+
+Bone – হাড়
+
+Skin – ত্বক
+
+Stomach – পেট
+
+Back – পিঠ
+
+Red – লাল
+
+Blue – নীল
+
+Green – সবুজ
+
+Yellow – হলুদ
+
+Orange – কমলা
+
+Purple – বেগুনি
+
+Pink – গোলাপি
+
+Black – কালো
+
+White – সাদা
+
+Gray – ধূসর
+
+Brown – বাদামি
+
+Gold – সোনা
+
+Silver – রূপা
+
+Light – আলো
+
+Dark – অন্ধকার
+
+Bright – উজ্জ্বল
+
+Color – রং
+
+Rainbow – রংধনু
+
+Shade – ছায়া
+
+Shadow – ছায়া
+
+Food – খাবার
+
+Water – পানি
+
+Rice – ভাত
+
+Bread – রুটি
+
+Milk – দুধ
+
+Meat – মাংস
+
+Fish – মাছ
+
+Egg – ডিম
+
+Fruit – ফল
+
+Apple – আপেল
+
+Mango – আম
+
+Banana – কলা
+
+Orange (fruit) – কমলা
+
+Grapes – আঙুর
+
+Pineapple – আনারস
+
+Coconut – নারকেল
+
+Sugar – চিনি
+
+Salt – লবণ
+
+Oil – তেল
+
+Tea – চা
+
+Coffee – কফি
+
+Vegetable – সবজি
+
+Potato – আলু
+
+Tomato – টমেটো
+
+Onion – পেঁয়াজ
+
+Garlic – রসুন
+
+Ginger – আদা
+
+Pepper – মরিচ
+
+Spinach – পালং শাক
+
+Cabbage – বাঁধাকপি
+
+Carrot – গাজর
+
+Bean – শিম
+
+Lentil – ডাল
+
+Soup – স্যুপ
+
+Honey – মধু
+
+Butter – মাখন
+
+Cheese – পনির
+
+Cake – কেক
+
+Sweet – মিষ্টি
+
+Salted – নোনতা
+
+Big – বড়
+
+Small – ছোট
+
+Long – লম্বা
+
+Short – খাটো
+
+Tall – উচ্চ
+
+Heavy – ভারী
+
+Light (weight) – হালকা
+
+Fast – দ্রুত
+
+Slow – ধীর
+
+Near – কাছে
+
+Far – দূরে
+
+Inside – ভিতরে
+
+Outside – বাইরে
+
+Up – উপরে
+
+Down – নিচে
+
+Left – বাম
+
+Right – ডান
+
+Front – সামনে
+
+Back – পিছনে
+
+Middle – মাঝখানে
+
+Good – ভালো
+
+Bad – খারাপ
+
+True – সত্য
+
+False – মিথ্যা
+
+New – নতুন
+
+Old – পুরনো
+
+Young – তরুণ
+
+Ancient – প্রাচীন
+
+Rich – ধনী
+
+Poor – গরিব
+
+Clean – পরিষ্কার
+
+Dirty – নোংরা
+
+Empty – খালি
+
+Full – পূর্ণ
+
+Strong – শক্তিশালী
+
+Weak – দুর্বল
+
+Hard – শক্ত
+
+Soft – নরম
+
+Sweet – মিষ্টি
+
+Bitter – তেতো
+
+Open – খোলা
+
+Close – বন্ধ
+
+Start – শুরু
+
+End – শেষ
+
+Come – আসা
+
+Go – যাওয়া
+
+Stand – দাঁড়ানো
+
+Sit – বসা
+
+Lie – শোয়া
+
+Laugh – হাসা
+
+Cry – কাঁদা
+
+Sing – গান গাওয়া
+
+Dance – নাচা
+
+Jump – লাফানো
+
+Swim – সাঁতার কাটা
+
+Fly – উড়া
+
+Fight – লড়া
+
+Help – সাহায্য করা
+
+Save – বাঁচানো
+
+Kill – হত্যা করা
+
+School – বিদ্যালয়
+
+College – কলেজ
+
+University – বিশ্ববিদ্যালয়
+
+Class – ক্লাস
+
+Exam – পরীক্ষা
+
+Result – ফলাফল
+
+Bookshop – বইয়ের দোকান
+
+Library – গ্রন্থাগার
+
+Science – বিজ্ঞান
+
+Math – গণিত
+
+History – ইতিহাস
+
+Geography – ভূগোল
+
+Language – ভাষা
+
+Literature – সাহিত্য
+
+Teacher – শিক্ষক
+
+Student – ছাত্র
+
+Question – প্রশ্ন
+
+Answer – উত্তর
+
+Lesson – পাঠ
+
+Homework – বাড়ির কাজ
+
+Doctor – ডাক্তার
+
+Nurse – নার্স
+
+Patient – রোগী
+
+Hospital – হাসপাতাল
+
+Medicine – ওষুধ
+
+Tablet – ট্যাবলেট
+
+Injection – ইনজেকশন
+
+Disease – রোগ
+
+Fever – জ্বর
+
+Pain – ব্যথা
+
+Headache – মাথাব্যথা
+
+Cold (illness) – সর্দি
+
+Cough – কাশি
+
+Blood – রক্ত
+
+Operation – অপারেশন
+
+Health – স্বাস্থ্য
+
+Life – জীবন
+
+Death – মৃত্যু
+
+Birth – জন্ম
+
+Body – শরীর
+
+City – শহর
+
+Village – গ্রাম
+
+Road – রাস্তা
+
+Street – গলি
+
+Market – বাজার
+
+Shop – দোকান
+
+Park – উদ্যান
+
+Garden – বাগান
+
+Temple – মন্দির
+
+Mosque – মসজিদ
+
+Church – চার্চ
+
+School – স্কুল
+
+Hospital – হাসপাতাল
+
+Station – স্টেশন
+
+Airport – বিমানবন্দর
+
+Bank – ব্যাংক
+
+Office – অফিস
+
+Factory – কারখানা
+
+Farm – খামার
+
+Hotel – হোটেল
+
+Dog – কুকুর
+
+Cat – বিড়াল
+
+Cow – গরু
+
+Goat – ছাগল
+
+Horse – ঘোড়া
+
+Sheep – ভেড়া
+
+Tiger – বাঘ
+
+Lion – সিংহ
+
+Elephant – হাতি
+
+Deer – হরিণ
+
+Monkey – বানর
+
+Snake – সাপ
+
+Fish – মাছ
+
+Bird – পাখি
+
+Crow – কাক
+
+Peacock – ময়ূর
+
+Hen – মুরগি
+
+Duck – হাঁস
+
+Frog – ব্যাঙ
+
+Rat – ইঁদুর
+
+One – এক
+
+Two – দুই
+
+Three – তিন
+
+Four – চার
+
+Five – পাঁচ
+
+Six – ছয়
+
+Seven – সাত
+
+Eight – আট
+
+Nine – নয়
+
+Ten – দশ
+
+Eleven – এগারো
+
+Twelve – বারো
+
+Thirteen – তেরো
+
+Fourteen – চৌদ্দ
+
+Fifteen – পনেরো
+
+Sixteen – ষোলো
+
+Seventeen – সতেরো
+
+Eighteen – আঠারো
+
+Nineteen – উনিশ
+
+Twenty – বিশ
+
+Hundred – একশো
+
+Thousand – এক হাজার
+
+Million – দশ লক্ষ
+
+First – প্রথম
+
+Second – দ্বিতীয়
+
+Third – তৃতীয়
+
+Fourth – চতুর্থ
+
+Fifth – পঞ্চম
+
+Last – শেষ
+
+Next – পরবর্তী
+
+Before – আগে
+
+After – পরে
+
+Always – সবসময়
+
+Sometimes – কখনও কখনও
+
+Never – কখনও না
+
+Early – তাড়াতাড়ি
+
+Late – দেরি
+
+Soon – শীঘ্রই
+
+Now – এখন
+
+Then – তারপর
+
+Music – সঙ্গীত
+
+Song – গান
+
+Dance – নাচ
+
+Picture – ছবি
+
+Film – চলচ্চিত্র
+
+Story – গল্প
+
+Poem – কবিতা
+
+Play (drama) – নাটক
+
+Game – খেলা
+
+Sports – ক্রীড়া
+
+Football – ফুটবল
+
+Cricket – ক্রিকেট
+
+Hockey – হকি
+
+Tennis – টেনিস
+
+Ball – বল
+
+Bat – ব্যাট
+
+Goal – গোল
+
+Win – জয়
+
+Lose – পরাজয়
+
+Team – দল
+
+Money – টাকা
+
+Coin – মুদ্রা
+
+Note – নোট
+
+Price – দাম
+
+Cheap – সস্তা
+
+Expensive – দামী
+
+Buy – কেনা
+
+Sell – বিক্রি
+
+Market – হাট
+
+Shopkeeper – দোকানদার
+
+Customer – ক্রেতা
+
+Profit – লাভ
+
+Loss – ক্ষতি
+
+Rich – ধনী
+
+Poor – গরিব
+
+Earn – উপার্জন
+
+Spend – খরচ করা
+
+Save – সঞ্চয় করা
+
+Bank – ব্যাংক
+
+Loan – ঋণ
+
+Country – দেশ
+
+Nation – জাতি
+
+Flag – পতাকা
+
+Government – সরকার
+
+Law – আইন
+
+Police – পুলিশ
+
+Soldier – সৈনিক
+
+Army – সেনা
+
+Freedom – স্বাধীনতা
+
+Justice – ন্যায়বিচার
+
+Vote – ভোট
+
+Leader – নেতা
+
+Citizen – নাগরিক
+
+Rights – অধিকার
+
+Duty – কর্তব্য
+
+Court – আদালত
+
+Judge – বিচারক
+
+Jail – জেল
+
+Crime – অপরাধ
+
+Peace – শান্তি
+
+Dream – স্বপ্ন
+
+Idea – ধারণা
+
+Mind – মন
+
+Thought – চিন্তা
+
+Knowledge – জ্ঞান
+
+Wisdom – প্রজ্ঞা
+
+Memory – স্মৃতি
+
+Imagination – কল্পনা
+
+Truth – সত্য
+
+Lie – মিথ্যা
+
+Reason – কারণ
+
+Question – প্রশ্ন
+
+Answer – উত্তর
+
+Problem – সমস্যা
+
+Solution – সমাধান
+
+Plan – পরিকল্পনা
+
+Goal – লক্ষ্য
+
+Success – সাফল্য
+
+Failure – ব্যর্থতা
+
+Future – ভবিষ্যৎ
+
+Past – অতীত
+
+Present – বর্তমান
+
+Beginning – শুরু
+
+Ending – সমাপ্তি
+
+Light – আলো
+
+Darkness – অন্ধকার
+
+Life – জীবন
+
+Death – মৃত্যু
+
+Happiness – সুখ
+
+Sorrow – দুঃখ
+
+Health – স্বাস্থ্য
+
+Disease – রোগ
+
+Richness – ঐশ্বর্য
+
+Poverty – দারিদ্র্য
+
+Freedom – মুক্তি
+
+Bondage – দাসত্ব
+
+Victory – জয়
+
+Defeat – পরাজয়
+
+Love – ভালোবাসা
+
+Humanity – মানবতা
