@@ -264,7 +264,7 @@ add_edges(tree, G)
 pos = hierarchy_pos(G, tree["key"])
 plt.figure(figsize=(12,7))
 nx.draw(G, pos, with_labels=True, arrows=False,
-        node_size=2800, node_color="lightblue",
+        node_size=250, node_color="lightblue",
         font_size=9, font_weight="bold")
 plt.title("Optimal Binary Search Tree (OBST) with Probabilities", fontsize=14)
 plt.show()
