@@ -17,8 +17,8 @@
 import matplotlib.pyplot as plt
 
 input_sizes = [1000, 5000, 10000, 20000, 50000]
-max_levels = [10, 10, 11, 13, 15]   # Example max levels
-avg_levels = [1.01, 1.00, 1.01, 1.01, 1.01]  # Example average levels
+max_levels = [9,14,15,13,17]#[10, 10, 11, 13, 15]   # Example max levels
+avg_levels = [0.98,1.02,1.00,1.00,1.01]#[1.01, 1.00, 1.01, 1.01, 1.01]  # Example average levels
 
 plt.figure(figsize=(12, 5))
 
