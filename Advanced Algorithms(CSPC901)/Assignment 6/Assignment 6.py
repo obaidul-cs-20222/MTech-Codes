@@ -3,8 +3,6 @@ import numpy as np
 import time
 import matplotlib.pyplot as plt
 
-#..................D and C select Algorithm .................................
-#................merge_sort to sort the subscripts and medians list ................
 def merge_sort(arr):
     if len(arr) <= 1:
         return arr, 0
@@ -32,9 +30,7 @@ def merge(left, right):
     sorted_array.extend(left[i:])
     sorted_array.extend(right[j:])
     return sorted_array, comparisons
-#..............................................................................
 
-#.......................median of median method................................ 
 def median_of_medians(arr,k_th,comparison_count):
     length_of_subscript = 5
     subscripts = []
@@ -42,13 +38,13 @@ def median_of_medians(arr,k_th,comparison_count):
         sorted_array, comparisons = merge_sort(arr[i:i+length_of_subscript])
         subscripts.append(sorted_array)
         comparison_count += comparisons
-    # print(subscripts)
+   
     medians = []
     for i in range(0,len(subscripts)):
         temp = subscripts[i]
-        # print('temp',temp)
+         
         medians.append(temp[len(temp)//2])
-    # print('medians',medians)
+    
     sorted_array, comparisons = merge_sort(np.array(medians))
     pivot = sorted_array[len(sorted_array)//2]
     comparison_count += comparisons
@@ -66,9 +62,6 @@ def median_of_medians(arr,k_th,comparison_count):
     else:
         return pivot,comparison_count
 
-#..................D and C select Algorithm .................................
-    
-#..................Randomized Select Algorithm...............................
 def randomized_select(arr, k_th, comparison_count=0):
     if len(arr) == 1:
         return arr[0], comparison_count
@@ -101,7 +94,7 @@ def partition(arr, pivot):
         else:
             right.append(element)
     return left, right, comparisons
-#..................Randomized Select Algorithm...............................
+
 
 def measure_time(algorithm, x, y):
     start = time.time()
@@ -109,13 +102,7 @@ def measure_time(algorithm, x, y):
     end = time.time()
     return end - start, result, comparison_count
 
-#...........test to check wheather the algorithms are returning the right results...........
-# arr = [5,10,8,7,21,9,1,4,3,6,75]
-# k_th = 8
-# result1, count1 = randomized_select(arr,k_th-1,0)
-# result2, count2 = median_of_medians(arr,k_th-1,0)
-# print(f'Result of Randomized: {result1}')
-# print(f'Result of D and C {result2}')
+
 
 if __name__ == "__main__":
     no_of_comparison = []  
@@ -129,8 +116,7 @@ if __name__ == "__main__":
     for size in size_array:
         arr = list(random.sample(range(1, 100000), size))
         k_th = random.randint(1, size)
-        # for k_th in np.array(random.sample(range(1, size), 3)):
-        #     ks.append(k_th)
+        
         
         d_and_c_time, d_and_c_kth_value, d_and_c_comparisons = measure_time(median_of_medians, arr, k_th)
         rand_time, rand_kth_value, rand_comparisons = measure_time(randomized_select, arr, k_th)
