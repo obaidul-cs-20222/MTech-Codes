@@ -37,7 +37,7 @@ def karatsuba(x, y):
     D, opsD = karatsuba(low_x, low_y)
     E, opsE = karatsuba(high_x + low_x, high_y + low_y)
 
-    E = E - C - D
+    E = E - C - D  #(ad + bc) = (a+b)(c+d) - ac - bd
     result = C * 10**(2*m) + E * 10**m + D
     ops = opsC + opsD + opsE + n  
     return result, ops
